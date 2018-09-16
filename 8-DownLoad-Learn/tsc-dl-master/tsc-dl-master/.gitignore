@@ -1,0 +1,10 @@
+*.pyc
+*.p
+*.ogv
+*.mp4
+
+toyExample/output/*
+
+clustering/*
+jigsaws/*
+config/*
