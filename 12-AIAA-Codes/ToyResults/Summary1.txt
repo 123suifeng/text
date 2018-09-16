@@ -1,0 +1,12 @@
+Realn2_Initial 10
+Realn2_Final 0
+FinalN3_Initial 20
+FinalN3_Final 10
+Transfer_Line_Initial 0
+Transfer_Line_Final 3
+Transfer_Triangle_Initial 0
+Transfer_Triangle_Final 2
+Remain_Couples_Initial 10
+Remain_Couples_Final 5
+Remain_Thrusters_Initial 81
+Remain_Thrusters_Final 31
